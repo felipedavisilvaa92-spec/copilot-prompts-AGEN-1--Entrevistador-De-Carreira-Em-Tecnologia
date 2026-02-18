@@ -1,0 +1,11 @@
+# Análise de Dados Públicos
+
+Projeto focado em análise exploratória utilizando Python.
+
+Ferramentas:
+- Pandas
+- NumPy
+- Matplotlib
+
+Objetivo:
+Aplicar técnicas de análise em bases públicas brasileiras e gerar insights estratégicos.
