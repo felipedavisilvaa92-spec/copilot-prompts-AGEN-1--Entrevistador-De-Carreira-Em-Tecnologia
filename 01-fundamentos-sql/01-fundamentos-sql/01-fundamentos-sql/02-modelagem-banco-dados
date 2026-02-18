@@ -1,0 +1,10 @@
+# Modelagem de Banco de Dados
+
+Conteúdo:
+
+- Modelo Entidade-Relacionamento
+- Normalização (1FN, 2FN, 3FN)
+- Chaves primárias e estrangeiras
+- Integridade referencial
+
+Objetivo: Estruturar bancos de dados de forma eficiente e escalável.
